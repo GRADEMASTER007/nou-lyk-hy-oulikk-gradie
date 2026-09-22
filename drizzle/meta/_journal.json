@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "mysql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790120260267,
+      "tag": "0000_messy_tiger_shark",
+      "breakpoints": true
+    }
+  ]
 }
